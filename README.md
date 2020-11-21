@@ -1,5 +1,5 @@
-# face-recognition-template
-Template using python and cv2 for live face detection which can also do a task when a face is recognized
+# Python Face Recognition Template
+Template using python and open-cv2 for live face detection which can also do a task when a face is recognized
 
 Installing opencv-python was a bit of a hassle as it would not install dlib normall on my machine. If you search up how to install opencv-python on google, there are tons of great examples on how to fix common errors.
 
